@@ -1,0 +1,6 @@
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.exe.config
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.exe
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\bin\Debug\HuffmanTest.pdb
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.csprojResolveAssemblyReference.cache
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.exe
+c:\users\reina\documents\visual studio 2015\Projects\HuffmanTest\HuffmanTest\obj\Debug\HuffmanTest.pdb
